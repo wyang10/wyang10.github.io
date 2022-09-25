@@ -15,9 +15,9 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
 
 ### Preview:
 <img width="1273" alt="Preview" src="https://user-images.githubusercontent.com/97855340/192123061-11b69b54-aeec-451c-b09c-c32a9913ccc5.png">
+<img width="1275" alt="4sum" src="https://user-images.githubusercontent.com/97855340/192130636-9b5cda67-44a5-4781-84c0-37784eeb8c8e.png">
 <img width="1274" alt="Gallery" src="https://user-images.githubusercontent.com/97855340/192123063-71a1cd83-0014-47a1-bbc4-0a50f74ea90b.png">
 <img width="1277" alt="Contacts" src="https://user-images.githubusercontent.com/97855340/192123065-16d38aa4-5b8f-45cb-8c3e-37ff95600cbd.png">
-
 
 ### Demonstration:
 [Video]()                                                                              
@@ -32,4 +32,4 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
   * Voilà!
 
 ###  Copyright:
-This project is under MIT license. All modified image resources could be distributed with same methods. Photos of myself will be shared with CC 4.0 BY-NC-ND license.
+This webpage takes advantage of templates from bootstrap. This project is under MIT license. All modified image resources could be distributed with same methods. Photos of myself will be shared with CC 4.0 BY-NC-ND license.
