@@ -13,7 +13,10 @@ Release: [Homepage](https://wyang10.github.io/)
 To Build a personal website by basically Bootstrap and Vanilla JS. There should be at least two pages introducing our skills, projects, hobbies, etc, and templates are allowed. The final product should be of W3C compliance, as well as formatted by eslint and prettier.
 
 ### Preview:
-![preview](https://user-images.githubusercontent.com/97855340/192121682-5aedb223-109c-45a3-87ae-fd47a36681e4.JPG)
+<img width="1273" alt="Preview" src="https://user-images.githubusercontent.com/97855340/192123061-11b69b54-aeec-451c-b09c-c32a9913ccc5.png">
+<img width="1274" alt="Gallery" src="https://user-images.githubusercontent.com/97855340/192123063-71a1cd83-0014-47a1-bbc4-0a50f74ea90b.png">
+<img width="1277" alt="Contacts" src="https://user-images.githubusercontent.com/97855340/192123065-16d38aa4-5b8f-45cb-8c3e-37ff95600cbd.png">
+
 
 ### Demonstration:
 [Video]()                                                                              
