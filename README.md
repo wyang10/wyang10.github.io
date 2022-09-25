@@ -21,7 +21,7 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
 
 ### Demonstration:
 [Video]()                                                                              
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1y0k3IhyBkj_wqHyUUwIzrWmgDCD7URtaz3tN7w1Sja8/edit#slide=id.p1)
 
 ### Intro to Install/ Run:
 1. Access it directly by the link [Homepage](https://wyang10.github.io/).
