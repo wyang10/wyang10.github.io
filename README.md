@@ -1,6 +1,7 @@
-### wyang10.github.io
-Project 1: Personal Website based on JavaScript, CSS, HTML, and Bootstrap.                                                                           
-CS5610 Web Development:  [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2022/)                         
+### Project 1 : My Personal Homepage    
+#### [wyang10.github.io](https://wyang10.github.io/) 
+Based on JavaScript, CSS, HTML, and Bootstrap v5.2.1.                                                                           
+CS 5610 Web Development:  [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2022/)                         
 Northeastern University Bay Area                                                    
 Instructor: John Alexis Guerra Gómez                                                                                          
  
@@ -9,7 +10,7 @@ Instructor: John Alexis Guerra Gómez
 Created By: Weihong Yang                                                     
 Release: [Homepage](https://wyang10.github.io/)  
 
-### Project Objective:
+### Project Objective
 To Build a personal website by basically Bootstrap and Vanilla JS. There should be at least two pages introducing our skills, projects, hobbies, etc, and templates are allowed. The final product should be of W3C compliance, as well as formatted by eslint and prettier.
 
 ### Preview:
@@ -31,4 +32,4 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
   * Voilà!
 
 ###  Copyright:
-This webpage takes advantage of templates from bootstrap. This project is under MIT license. All modified image resources could be distributed with same methods. Photos of myself will be shared with CC 4.0 BY-NC-ND license.
+This project is under MIT license. All modified image resources could be distributed with same methods. Photos of myself will be shared with CC 4.0 BY-NC-ND license.
