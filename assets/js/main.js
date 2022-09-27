@@ -34,6 +34,7 @@
     el.addEventListener("scroll", listener);
   };
 
+  // Very clever! Adds a subtle, but awesome affect as you scroll.
   /**
    * Navbar links active state on scroll
    */
@@ -165,6 +166,9 @@
     }
   });
 
+  /* Not sure if "skilsContent" was misspelled accidentally or
+  purposely, but it might be useful to make sure your variables
+  are spelled correctly */
   /**
    * Skills animation
    */
@@ -260,3 +264,6 @@
    */
   new PureCounter();
 })();
+/* Great job with your JS. Everything appears to be functional,
+and it shows as I peruse through your website. I again have
+learned a lot just by reviewing your code, so thank you! */
