@@ -23,7 +23,7 @@ To Build a personal website by basically Bootstrap and Vanilla JS. There should 
 <img width="1277" alt="Contacts" src="https://user-images.githubusercontent.com/97855340/192123065-16d38aa4-5b8f-45cb-8c3e-37ff95600cbd.png">
 
 ### Demonstration:
-[Video](https://youtu.be/LNWmRsFbsyI)                                                                              
+[Video](https://youtu.be/1_u326Us-mQ)                                                                              
 [Slides](https://docs.google.com/presentation/d/1y0k3IhyBkj_wqHyUUwIzrWmgDCD7URtaz3tN7w1Sja8/edit#slide=id.p1)
 
 ### Intro to Install/ Run:
